@@ -3,3 +3,6 @@ build
 .idea
 *.iml
 ci/variables.yml
+auth_token.txt
+id_lab3
+id_lab3.pub
